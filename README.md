@@ -14,7 +14,7 @@ Comenzaremos con los fundamentos del desarrollo Web, con HTML y CSS, y posterior
 
 # Teoría y Recursos
 
-## Rampup: HTML, CSS, JS Básico
+## Fundamentals: HTML, CSS, JS Básico
 En el siguiente enlace encontrarás la teoría, ejercicios, bikrams JS y tutoriales necesarios para poder seguir las clases.
 
 - [**Temario del fundamentals: Herramientas, links, ejercicios, bikrams**](https://github.com/TheBridge-FullStackDeveloper/fswd-ft-sept-21-ramp-up/blob/main/readme.md)
