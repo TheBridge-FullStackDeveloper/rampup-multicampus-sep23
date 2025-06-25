@@ -17,9 +17,9 @@ Comenzaremos con los fundamentos del desarrollo Web, con HTML y CSS, y posterior
 ## Rampup: HTML, CSS, JS Básico
 En el siguiente enlace encontrarás la teoría, ejercicios, bikrams JS y tutoriales necesarios para poder seguir las clases.
 
-- [**Temario del rampup: Herramientas, links, ejercicios, bikrams**](https://github.com/TheBridge-FullStackDeveloper/fswd-ft-sept-21-ramp-up/blob/main/readme.md)
+- [**Temario del fundamentals: Herramientas, links, ejercicios, bikrams**](https://github.com/TheBridge-FullStackDeveloper/fswd-ft-sept-21-ramp-up/blob/main/readme.md)
 
-## Teoría de Rampup extendida
+## Teoría de Fundamentals extendida
 En esta sección podrás profudizar en la teoría sobre HTML5, CSS y JavaScript básico vista en clase.
 
 ### HTML 
@@ -58,7 +58,7 @@ Teorí­a                                         |Contenido                    
 
 Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más utilizado y en más rápido crecimiento, y a desarrollar aplicaciones web de principio a fin. También aprenderás a desplegarlas en entornos cloud, y conceptos fundamentales de DevOps
 
-**Rampup** 
+**Fundamentals** 
 - HTML5
 - CSS3
 - Javascript básico
